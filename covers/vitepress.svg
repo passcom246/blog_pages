@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3451B2" />
+      <stop offset="1" stop-color="#7C8CF8" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g)" />
+  <text x="50%" y="50%" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, PingFang SC, sans-serif" font-size="38" font-weight="700">VitePress</text>
+  <text x="50%" y="62%" text-anchor="middle" fill="#E4E8FF" font-family="Segoe UI, PingFang SC, sans-serif" font-size="18">静态博客搭建记录</text>
+</svg>
